@@ -11,7 +11,7 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 - [ ] solve for OR gate, with inverters and solutions being produced
 - [ ] solve for AND gate
 
-## "Game"
+## Simulator ("Game")
 ### Conway's Life Differences
 - It is not an actual game, but a simulation where interaction if accomplished via setting values: average lifespan of "creatures", voltage range of gate outputs, speed, chances of creature spawning via implicit but non-existence of molecules combining to produce life-like entities that then become life, board size, etc.
 - The object of the simulation is to evolve solutions to Boolean logic gates in order to produce food and procreate
