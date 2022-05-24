@@ -5,9 +5,9 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 
 ## Todo
 
--[ ] implement Conway's Life 
--[ ] begin implementing simulation logic
--[ ] solve for inverter, saving allowed solutions
+[ ] implement Conway's Life 
+[ ] begin implementing simulation logic
+[ ] solve for inverter, saving allowed solutions
 
 ## Game
 ### Conway's Life Differences
