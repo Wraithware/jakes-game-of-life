@@ -5,8 +5,8 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 
 ## Todo
 
-[] implement Conway's Life 
-[] begin implementing simulation logic
+- [] implement Conway's Life 
+- [] begin implementing simulation logic
 
 ## Game
 ### Conway's Life Differences
