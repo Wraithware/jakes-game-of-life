@@ -7,6 +7,7 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 
 -[ ] implement Conway's Life 
 -[ ] begin implementing simulation logic
+-[ ] solve for inverter, saving allowed solutions
 
 ## Game
 ### Conway's Life Differences
@@ -14,3 +15,8 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 - The object of the simulation is to evolve solutions to Boolean logic gates in order to produce food and procreate
 - The output of gates are not only high and low but low and highs of variable intensity measured in voltage; the higher the voltage, the more food is produced, extending the life of "creatures"
 - There are not only one solution to gates and thus food production but also 
+- Block colors have meanings: 
+  - red:    dying
+  - green:  food
+  - black:  life or life-like entity
+  - gray:   protolife construct (may turn into creature)
