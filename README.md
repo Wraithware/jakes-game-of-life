@@ -23,3 +23,8 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
   - black:  life or life-like entity
   - gray:   protolife construct (may turn into creature)
 - Smaller creatures tend to be faster, though certain shapes can speed up larger creatures, and faster creatures evolve with more speed
+
+## Running
+No framework is used here for now. I'll be making it a React app soon-ish, for portfolio reasons, but I'll try to keep things organized so that the framework can be easily pulled out, probably just 2 versions.
+
+The simplest way I've found to run this so far is just to use VS Code with the Live Server plug in. I'll add additional details for running the React app when that is done. Good luck.
