@@ -6,4 +6,5 @@
 # */Files/Data/docs.checksum
 # */QuickLook/
 # */Settings/ui.plist
+.DS_Stored
 .DS_Store
