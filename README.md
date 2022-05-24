@@ -4,8 +4,8 @@
 This idea came from, well, my head many years aback. I decided to use Conway's Game of Life as the starting point due to its being well-known and because it can be a canvas on which to test my ideas.
 
 ## Todo
--[] implement Conway's Life 
--[] begin implementing simulation logic
+[] implement Conway's Life 
+[] begin implementing simulation logic
 
 ## Game
 ### Conway's Life Differences
