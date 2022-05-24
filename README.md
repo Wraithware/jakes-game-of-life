@@ -7,7 +7,9 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 
 - [ ] implement Conway's Life 
 - [ ] begin implementing simulation logic
-- [ ] solve for inverter, saving allowed solutions
+- [ ] solve for INVERTER, saving allowed solutions
+- [ ] solve for OR gate, with inverters and solutions being produced
+- [ ] solve for AND gate
 
 ## Game
 ### Conway's Life Differences
@@ -20,3 +22,4 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
   - green:  food
   - black:  life or life-like entity
   - gray:   protolife construct (may turn into creature)
+- Smaller creatures tend to be faster, though certain shapes can speed up larger creatures, and faster creatures evolve with more speed
