@@ -5,6 +5,7 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 
 ## Todo
 
+- [ ] take a few hours to learn some OpenGL
 - [ ] implement Conway's Life 
 - [ ] begin implementing simulation logic
 - [ ] solve for INVERTER, saving allowed solutions
@@ -25,6 +26,6 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
 - Smaller creatures tend to be faster, though certain shapes can speed up larger creatures, and faster creatures evolve with more speed
 
 ## Running
-No framework is used here for now. I'll be making it a React app soon-ish, for portfolio reasons, but I'll try to keep things organized so that the framework can be easily pulled out, probably just 2 versions.
+No framework is used here. I'll be making it a React app soon-ish, for portfolio reasons, but I'll try to keep things organized so that the framework can be easily pulled out, probably just two versions.
 
-The simplest way I've found to run this so far is just to use VS Code with the Live Server plug in. I'll add additional details for running the React app when that is done. Good luck.
+The simplest way I've found to run this so far is just to use VS Code with the Live Server plug in. I'll add additional details for running the React app when that is done. Make sure if you are using Live Server that you have `index.html` opened in a vscode tab. Good luck.
