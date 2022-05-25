@@ -73,15 +73,6 @@ This idea came from, well, my head many years aback. I decided to use Conway's G
     </tbody>
 </table>
 
-<!-- |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| A | B |AND|NAND|OR|NOR|XOR|XNOR|
-| | --- | --- | |
-| 0 | 0 | 0 | 1-xV | 0 | 1-xV | 0 | 1-xV |
-| 0 | 1-xV | 0 | 1-xV | 1-xV | 0 | 1-xV | 0 |
-| 1-xV | 0 | 0 | 1-xV | 1-xV | 0 | 1-xV | 0 |
-| 1-xV | 1-xV | 1-xV | 0 | 1-xV | 0 | 0 | 1-xV | -->
-
 **`<fun>`**
 
 ```mermaid
